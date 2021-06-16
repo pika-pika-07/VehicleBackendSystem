@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/P02-VehiclesAPI/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/P02-VehiclesAPI/pricing-service/pom.xml" />
       </list>
     </option>
   </component>
