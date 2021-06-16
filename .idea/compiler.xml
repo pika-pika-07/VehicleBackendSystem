@@ -7,12 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
-        <module name="pricing-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaserver" target="11" />
-      <module name="pricing-service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
