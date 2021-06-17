@@ -1,6 +1,6 @@
 # VehiclesAPI-Project
 
-Project repository for Vehicles backend System, where students implement a Vehicles API using Java and Spring Boot that can communicate with separate location and pricing services.
+Project repository for Vehicles backend System, where  Vehicles API is implemented using Java and Spring Boot that can communicate with separate location and pricing services.
 
 ## Instructions
 
