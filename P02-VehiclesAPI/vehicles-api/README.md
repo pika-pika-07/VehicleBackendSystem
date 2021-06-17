@@ -39,7 +39,7 @@ Import it in your favorite IDE as a Maven Project.
 
 ## Operations
 
-Swagger UI: http://localhost:8080/swagger-ui.html
+Swagger UI: http://localhost:8888/swagger-ui.html
 
 ### Create a Vehicle
 
