@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/VehicleBackendSystem.iml" filepath="$PROJECT_DIR$/.idea/VehicleBackendSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/boogle-maps/boogle-maps.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/boogle-maps/boogle-maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/pricing-service/pricing-service.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/pricing-service/pricing-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/P02-VehiclesAPI/vehicles-api/vehicles-api.iml" filepath="$PROJECT_DIR$/P02-VehiclesAPI/vehicles-api/vehicles-api.iml" />

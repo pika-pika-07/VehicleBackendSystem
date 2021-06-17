@@ -22,6 +22,9 @@ public class PricingController {
      * @param vehicleId ID number of the vehicle for which the price is requested
      * @return price of the vehicle, or error that it was not found.
      */
+
+    // Request Sample Url for running Pricing service as eureka client
+    /* http://192.168.1.2:8082/services/price?vehicleId=1 */
     @GetMapping
     public Price get(@RequestParam Long vehicleId) {
         try {
